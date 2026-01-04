@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "純恋愛のインゴット - Pure Love Ingot",
+  "base_artist": "tuki.",
+  "createdAt": "2026-01-04T17:53:09.471673Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "純恋愛のインゴット",
+      "artist": "tuki.",
+      "has_synced": true,
+      "path": "select/01_純恋愛のインゴット_tuki..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "純恋愛のインゴット - Pure Love Ingot",
+      "artist": "tuki.",
+      "has_synced": true,
+      "path": "select/02_純恋愛のインゴット_-_Pure_Love_Ingot_tuki..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "純恋愛のインゴット - Pure Love Ingot (Paused)",
+      "artist": "tuki.",
+      "has_synced": false,
+      "path": "select/03_純恋愛のインゴット_-_Pure_Love_Ingot_(Paused)_tuki..txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "純恋愛のインゴット - Pure Love Ingot",
+      "artist": "tuki.",
+      "has_synced": false,
+      "path": "select/pl_01_純恋愛のインゴット_-_Pure_Love_Ingot_tuki..txt"
+    }
+  ]
+}
